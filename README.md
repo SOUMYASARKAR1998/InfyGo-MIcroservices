@@ -1,1 +1,1 @@
-# InfyGo-MIcroservices
+# InfyGo-Microservices
